@@ -4,3 +4,5 @@ print("INTRO_GIT")
 numero = int(input())
 resultado = numero * numero
 print(resultado)
+print(resultado / resultado)
+
